@@ -1,2 +1,2 @@
 # incredible-hub-642
-React app generated from template: landing-page
+React app generated with custom deployment.
